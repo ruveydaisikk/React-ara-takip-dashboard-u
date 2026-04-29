@@ -13,7 +13,7 @@ Tarayıcıda `http://localhost:5173` adresini aç.
 
 ## 🌐 Canlı Demo
 
-[https://react-ara-takip-dashboard-u.vercel.app](https://react-ara-takip-dashboard-u.vercel.app)
+[https://react-arac-takip-dashboard.vercel.app](https://react-arac-takip-dashboard.vercel.app)
 
 ## 🖥️ Özellikler
 
