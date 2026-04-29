@@ -43,5 +43,5 @@ Tarayıcıda `http://localhost:5173` adresini aç.
 ### Arızalı Araçlar
 ![Arızalı Araçlar](public/arizali.jpg)
 
-### Bakımda Araçlar
+### Bakımdaki Araçlar
 ![Bakımda Araçlar](public/bakimda.jpg)
