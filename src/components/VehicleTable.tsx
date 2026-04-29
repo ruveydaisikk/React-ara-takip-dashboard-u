@@ -59,7 +59,7 @@ export default function VehicleTable() {
 
     return (
         <div>
-            <div className="rounded-xl overflow-hidden border border-gray-800">
+            <div className="rounded-xl overflow-hidden border border-gray-800 overflow-x-auto">
                 <table className="w-full text-sm">
                     <thead className="bg-gray-800 text-gray-400">
                         <tr>
